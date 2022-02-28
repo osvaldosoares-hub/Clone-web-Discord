@@ -14,6 +14,11 @@ export const ServerList: React.FC =()=>{
             <ServerButton/>
             <ServerButton/>
             <ServerButton/>
+            <ServerButton/>
+            <ServerButton/>
+            <ServerButton/>
+            <ServerButton/>
+            <ServerButton/>
             <ServerButton hasNotifications/>
             
             <ServerButton mentions={32}/>
